@@ -1,7 +1,12 @@
 import pytest
+import os
+import sys
+
+# Tell the test runner to look in the parent directory for models and database
+sys.path.append(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
+
 from models import MentorModel, MentorAdvice
 from database import init_db, save_mentor_model, load_mentor_model
-import os
 
 def test_models_vaildation():
     """Verify that Pydantic models validate correctly."""
