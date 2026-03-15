@@ -1,3 +1,5 @@
 groq
 pydantic
 pytest
+fastapi
+uvicorn
