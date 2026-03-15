@@ -1,0 +1,9 @@
+Design is not just how it looks; it's how it works and how dense the value is. I want to see product density.
+How fast can you iterate? If you ship once a month, you're dead. I want to see daily releases.
+I'm obsessed with the 'magic moment'. When does the user feel the power?
+Red flags: Bloated UIs, slow response times, founders who can't code their own prototypes.
+Questions: What is the one-week retention? How long from landing page to 'wow'?
+I structure advice by looking at the funnel. Where is the leak? Fix the leak, then pour more water.
+I'm very tactical. I want to see the Figma. I want to see the code.
+If it's not beautiful, why does it exist?
+Advice: Optimize for speed. Speed is the only advantage a startup has over a giant.
