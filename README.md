@@ -1,7 +1,16 @@
 # Mentor Brain
 
-A system that extracts reasoning patterns from mentor transcripts and uses them to give pitch feedback in each mentor's unique style (powered by Groq & Llama 3).
+Mentor Brain is an AI-powered system designed to simulate structured mentorship by going beyond simple retrieval-based responses. Instead of just fetching information, it attempts to reason, guide, and respond contextually, much like a human mentor would.
 
+At its core, the system focuses on delivering direction over information. It processes user queries not just as questions, but as intent-driven problems, and generates responses that aim to:
+
+break down thinking
+provide actionable guidance
+adapt to context
+
+Unlike traditional RAG (Retrieval-Augmented Generation) systems that rely heavily on retrieving documents and stitching responses, Mentor Brain introduces a more reasoning-first approach, where the model is encouraged to interpret, structure, and respond with clarity rather than just retrieval.
+
+The project explores how AI systems can evolve from being information providers to decision-support systems, making them more useful in real-world learning, problem-solving, and career guidance scenarios.
 ## Setup
 
 1.  **Install Dependencies**:
